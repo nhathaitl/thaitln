@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thaitln
+- 👋 Hi, I’m Nhật Thái
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Linux programing
 - 💞️ I’m looking to collaborate on ...
